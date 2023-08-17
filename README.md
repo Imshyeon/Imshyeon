@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caprasimo&size=30&pause=1000&width=435&lines=Hello!+Welcome+to+my+Repo)](https://git.io/typing-svg)
 
-<iframe src="https://giphy.com/embed/eImrJKnOmuBDmqXNUj" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/regalmovies-minions-breaking-despicable-me-eImrJKnOmuBDmqXNUj">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/XlGQ2sBz4gvIAv0FVa/giphy.gif width="200" height="200"/>
+</div>
 
+<br>
 
 ## Profile
 
