@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caprasimo&size=30&pause=1000&width=435&lines=Hello!+Welcome+to+my+Repo)](https://git.io/typing-svg)
+<div>
+<img src="https://media.giphy.com/media/XlGQ2sBz4gvIAv0FVa/giphy.gif">
+</div>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/XlGQ2sBz4gvIAv0FVa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/minions-minion-rise-of-gru-riseofgru-XlGQ2sBz4gvIAv0FVa">via GIPHY</a></p>
-
-<iframe src="https://giphy.com/embed/XlGQ2sBz4gvIAv0FVa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/minions-minion-rise-of-gru-riseofgru-XlGQ2sBz4gvIAv0FVa">via GIPHY</a></p>
 
 ## Profile
 
