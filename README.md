@@ -4,8 +4,6 @@
   <img src=https://media.giphy.com/media/XlGQ2sBz4gvIAv0FVa/giphy.gif width="200" height="200"/>
 </div>
 
-<br>
-
 ## Profile
 
 - NAME | Suhyeon Kang
