@@ -28,4 +28,4 @@
     - 2023년에 참가한 AI Backend 과정
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imshyeon)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imshyeon&theme=dark)](https://git.io/streak-stats)
