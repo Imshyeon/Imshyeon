@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caprasimo&size=30&pause=1000&width=435&lines=Hello!+Welcome+to+my+Repo)](https://git.io/typing-svg)
 <div>
-<img src="https://media.giphy.com/media/XlGQ2sBz4gvIAv0FVa/giphy.gif">
+<img src="https://user-images.githubusercontent.com/93653747/261169652-39fbbbb5-d76c-4bc7-b47f-3c48730ca71e.gif">
 </div>
 
 
