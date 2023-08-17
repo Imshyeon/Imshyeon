@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caprasimo&size=30&pause=1000&width=435&lines=Hello!+Welcome+to+Zoe's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caprasimo&size=30&pause=1000&width=435&lines=Hello!+Welcome+to+my+Repo)](https://git.io/typing-svg)
 
 - NAME | Suhyeon Kang
 - AGE | 23
