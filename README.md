@@ -27,5 +27,14 @@
 - [2023_AI_BACKEND](https://github.com/Imshyeon/2023_AI_BACKEND)
     - 2023년에 참가한 AI Backend 과정
 
+- [webproject2](https://github.com/Imshyeon/webproject2)
+    - django를 이용한 블로그를 제작하였습니다.
+
+- [Algorithm](https://github.com/Imshyeon/Algorithm)
+    - 알고리즘 공부한 내용입니다.
+
+- [DesignPattern](https://github.com/Imshyeon/DesignPattern)
+    - DesignPattern과 OOP에 대한 학습 내용입니다.
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imshyeon&theme=dark)](https://git.io/streak-stats)
