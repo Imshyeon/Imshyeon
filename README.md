@@ -24,17 +24,20 @@
 - [TIL](https://github.com/Imshyeon/TIL)
     - Today I Learned
 
-- [2023_AI_BACKEND](https://github.com/Imshyeon/2023_AI_BACKEND)
-    - 2023년에 참가한 AI Backend 과정
+- [2023_AI_BACKEND_front-back-web](https://github.com/Imshyeon/2023_AI_BACKEND_front-back-web)
+    - 2023년에 참가한 AI Backend 과정 전반기(frontend, backend, web)에 대해서 다뤘습니다.
 
 - [webproject2](https://github.com/Imshyeon/webproject2)
     - django를 이용한 블로그를 제작하였습니다.
 
-- [Algorithm](https://github.com/Imshyeon/Algorithm)
-    - 알고리즘 공부한 내용입니다.
+- [2023_AI_BACKEND_Algorithm](https://github.com/Imshyeon/2023_AI_BACKEND_Algorithm)
+    - 2023년에 참가한 AI Backend 과정의 알고리즘 파트를 공부한 내용입니다.
 
-- [DesignPattern](https://github.com/Imshyeon/DesignPattern)
-    - DesignPattern과 OOP에 대한 학습 내용입니다.
+- [2023_AI_BACKEND_DesignPattern](https://github.com/Imshyeon/2023_AI_BACKEND_DesignPattern)
+    - 2023년에 참가한 AI Backend 과정의 DesignPattern 파트와 OOP에 대한 학습 내용입니다.
+
+- [2023_AI_BACKEND_A](https://github.com/Imshyeon/2023_AI_BACKEND_AI)
+    - 2023년에 참가한 AI Backend 과정의 인공지능 파트에 대해서 다뤘습니다.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imshyeon&theme=dark)](https://git.io/streak-stats)
