@@ -36,8 +36,11 @@
 - [2023_AI_BACKEND_DesignPattern](https://github.com/Imshyeon/2023_AI_BACKEND_DesignPattern)
     - 2023년에 참가한 AI Backend 과정의 DesignPattern 파트와 OOP에 대한 학습 내용입니다.
 
-- [2023_AI_BACKEND_A](https://github.com/Imshyeon/2023_AI_BACKEND_AI)
+- [2023_AI_BACKEND_AI](https://github.com/Imshyeon/2023_AI_BACKEND_AI)
     - 2023년에 참가한 AI Backend 과정의 인공지능 파트에 대해서 다뤘습니다.
+
+- [Udemy The_web_developer_bootcamp_2023](https://github.com/Imshyeon/The_web_developer_bootcamp_2023_review)
+    - 유데미의 웹 개발자 부트캠프 2023 과정에 대한 내용을 담았습니다.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imshyeon&theme=dark)](https://git.io/streak-stats)
