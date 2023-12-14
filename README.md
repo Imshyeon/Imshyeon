@@ -9,6 +9,7 @@
 - NAME | Suhyeon Kang
 - AGE | 23
 - MAJOR | electronic engineering
+<br><br>
 
 ## 🖇️ Here's my repositories
 
@@ -25,11 +26,11 @@
   - GitHub 특강 내용
   - git 버전관리 기초에 대해서 다뤘습니다.
 
-- [TIL](https://github.com/Imshyeon/TIL) - Today I Learned
+- [TIL](https://github.com/Imshyeon/TIL) 
+  - Today I Learned
 
 - [2023_AI_BACKEND_front-back-web](https://github.com/Imshyeon/2023_AI_BACKEND_front-back-web)
-
-- 2023년에 참가한 AI Backend 과정 전반기(frontend, backend, web)에 대해서 다뤘습니다.
+  - 2023년에 참가한 AI Backend 과정 전반기(frontend, backend, web)에 대해서 다뤘습니다.
 
 - [2023_AI_BACKEND_Algorithm](https://github.com/Imshyeon/2023_AI_BACKEND_Algorithm)
     - 2023년에 참가한 AI Backend 과정의 알고리즘 파트를 공부한 내용입니다.
