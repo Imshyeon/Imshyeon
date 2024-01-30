@@ -3,10 +3,9 @@
 <img src="https://user-images.githubusercontent.com/93653747/261169652-39fbbbb5-d76c-4bc7-b47f-3c48730ca71e.gif" width="300" height="300">
 <h1 style="margin-top:4rem">❤️‍🔥 Suhyeon Kang</h1>
 <div>
-<p style="display:inline; font-weight:bold">· AGE | </p> <span style="inline">23</span>
+<p style="display:inline; font-weight:bold">· AGE | 23</p> 
 </div>
-<div><p style="display:inline; font-weight:bold">· MAJOR | </p> <span style="inline">Electronic Engineering</span>
-</div>
+<div><p style="display:inline; font-weight:bold">· MAJOR | Electronic Engineering</p> 
 <br><br>
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
