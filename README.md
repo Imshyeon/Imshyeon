@@ -6,8 +6,7 @@
 <p style="display:inline; font-weight:bold">· AGE | 23</p> 
 </div>
 <div><p style="display:inline; font-weight:bold">· MAJOR | Electronic Engineering</p> 
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -21,6 +20,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
+<br>
 
 <div align="center">
 <h1 style="margin-top:4rem">❤️‍🔥 Here's my repositories</h1>
@@ -97,12 +97,14 @@
 
 </section>
 </div>
+<br>
 
 <div align="center">
 <h1 style="margin-top:4rem">❤️‍🔥 My Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Imshyeon" style="margin-right:2rem; ">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imshyeon&layout=compact"><br>
 </div>
+<br>
 
 <div align="center">
 <h1 style="margin-top:4rem">❤️‍🔥 My Velog</h1>
