@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&size=30&pause=1000&width=435&lines=Hello!+Welcome+to+my+Repo!"><br>
 <img src="https://user-images.githubusercontent.com/93653747/261169652-39fbbbb5-d76c-4bc7-b47f-3c48730ca71e.gif" width="300" height="300">
-<h1 style="margin-top:4rem">❤️‍🔥 Suhyeon Kang</h1>
+<h1 style="margin-top:4rem">❤️‍🔥 Suhyeon Kang <a align="right" href="mailto:zoekang.developer@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+</a></h1>
 <div>
 <p style="display:inline; font-weight:bold">· AGE | 23</p> 
 </div>
