@@ -34,21 +34,23 @@
 <h1 style="margin-top:4rem">❤️‍🔥 Here's my repositories</h1>
 <section>
 <div id="recent-repository">
-<h3 style="font-weight: bold;">🚀 최근 작업 중인 레파지토리</h3>
-<div id="1">
-<span>· </span>
-<a href="https://github.com/Imshyeon/Develop_Study">Develop_Study</a>
-<span> | 유데미 + 개인적인 개발 공부 부분을 담았습니다.</span>
+   <h3 style="font-weight: bold;">🚀 최근 작업 중인 레파지토리</h3>
+   <div id="1">
+   <span>· </span>
+   <a href="https://github.com/Imshyeon/Develop_Study">Develop_Study</a>
+   <span> | 유데미 + 개인적인 개발 공부 부분을 담았습니다.</span>
+   </div>
+   <div id="2">
+   <span>· </span>
+   <a href="https://github.com/Imshyeon/Holiday_Schedule">Holiday Schedule</a>
+   <span> | 여행 스케줄 제작 어플리케이션 프로젝트입니다. - FrontEnd 담당</span>
+   </div>
 </div>
-<div id="2">
-<span>· </span>
-<a href="https://github.com/Imshyeon/Holiday_Schedule">Holiday Schedule</a>
-<span> | 여행 스케줄 제작 어플리케이션 프로젝트입니다. - FrontEnd 담당</span>
-</div>
-</div>
+   
+<div style="margin-top:3rem;">
 <details id="project-repository" style="margin-top:3rem">
-<summary style="font-size: 18px;font-weight: bold;">📂 Project</summary>
-<ul style="text-align:center; margin-top:1rem; list-style:none">
+<summary><h3>📂 Project</h3></summary>
+<ul style="list-style: none; list-style-type: none;">
   <li id="1"> 
     <span>· </span>
     <a href="https://github.com/Imshyeon/MLP_Final_PJ">MLP_Fianl_PJ</a>
@@ -66,10 +68,11 @@
   </li>
 </ul>
 </details>
+</div>
 
 <details id="study-repository" style="margin-top:3rem">
-<summary style="font-size: 18px; font-weight: bold;">📖 Studying by myself</summary>
-<ul style="text-align:center; margin-top:1rem; list-style:none">
+<summary><h3>📖 Studying by myself</h3></summary>
+<ul style="list-style:none">
   <li id="1"> 
     <span>· </span>
     <a href="https://github.com/Imshyeon/The_web_developer_bootcamp_2023_review">Udemy The web developer bootcamp 2023</a>
@@ -89,8 +92,8 @@
 </details>
 
 <details id="mlp-repository" style="margin-top:3rem">
-<summary style="font-size: 18px; font-weight: bold;">🤖 Multi Campus : AI BackEnd Developer</summary>
-<ul style="text-align:center; margin-top:1rem; list-style:none">
+<summary><h3>🤖 Multi Campus : AI BackEnd Developer</h3></summary>
+<ul style="list-style:none">
   <li id="1"> 
     <span>· </span>
     <a href="https://github.com/Imshyeon/2023_AI_BACKEND_front-back-web">2023_AI_BACKEND WEB</a>
@@ -115,8 +118,8 @@
 </details>
 
 <details id="school-repository" style="margin-top:3rem">
-<summary style="font-size:18px; font-weight: bold;">🎓 School</summary>
-<ul style="text-align:center; margin-top:1rem; list-style:none">
+<summary><h3>🎓 School</h3></summary>
+<ul style="list-style:none">
   <li id="1"> 
     <span>· </span>
     <a href="https://github.com/Imshyeon/team4_1">4학년 1학기 캡스톤디자인</a>
