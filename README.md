@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+</head>
+<body>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&size=30&pause=1000&width=435&lines=Hello!+Welcome+to+my+Repo!"><br>
 <img src="https://user-images.githubusercontent.com/93653747/261169652-39fbbbb5-d76c-4bc7-b47f-3c48730ca71e.gif" width="300" height="300">
@@ -143,3 +148,5 @@
 <h1 style="margin-top:4rem">❤️‍🔥 My Velog</h1>
 <img src="https://velog-readme-stats.vercel.app/api?name=kzoen0040">
 </div>
+</body>
+</html>
