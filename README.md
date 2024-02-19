@@ -35,73 +35,95 @@
 <section>
 <div id="recent-repository">
 <h3 style="font-weight: bold;">🚀 최근 작업 중인 레파지토리</h3>
+<div id="1">
 <span>· </span>
 <a href="https://github.com/Imshyeon/Develop_Study">Develop_Study</a>
 <span> | 유데미 + 개인적인 개발 공부 부분을 담았습니다.</span>
 </div>
-<div id="project-repository" style="margin-top:3rem">
-<h3 style="font-weight: bold;">📂 Project</h3>
-<div id="1">
-<span>· </span>
-<a href="https://github.com/Imshyeon/MLP_Final_PJ">MLP_Fianl_PJ</a>
-<span> | MLP AI 백엔드 개발자 교육 중 최종 프로젝트 내용입니다. - FrontEnd 담당</span>
-</div>
 <div id="2">
 <span>· </span>
-<a href="https://github.com/Imshyeon/webproject2">webproject2</a>
-<span> | MLP AI 백엔드 개발자 교육 중 중간 프로젝트 내용입니다. - FrontEnd, BackEnd 담당</span>
+<a href="https://github.com/Imshyeon/Holiday_Schedule">Holiday Schedule</a>
+<span> | 여행 스케줄 제작 어플리케이션 프로젝트입니다. - FrontEnd 담당</span>
 </div>
 </div>
+<details id="project-repository" style="margin-top:3rem">
+<summary style="font-size: 18px;font-weight: bold;">📂 Project</summary>
+<ul style="text-align:center; margin-top:1rem; list-style:none">
+  <li id="1"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/MLP_Final_PJ">MLP_Fianl_PJ</a>
+    <span> | MLP AI 백엔드 개발자 교육 중 최종 프로젝트 내용입니다. - FrontEnd 담당</span>
+  </li>
+   <li id="2"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/webproject2">webproject2</a>
+    <span> | MLP AI 백엔드 개발자 교육 중 중간 프로젝트 내용입니다. - FrontEnd, BackEnd 담당</span>
+  </li>
+   <li id="3"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/Holiday_Schedule">Holiday Schedule</a>
+    <span> | 여행 스케줄 제작 어플리케이션 프로젝트입니다. - FrontEnd 담당</span>
+  </li>
+</ul>
+</details>
 
-<div id="study-repository" style="margin-top:3rem">
-<h3 style="font-weight: bold;">📖 Studying by myself</h3>
-<div id="1">
-<span>· </span>
-<a href="https://github.com/Imshyeon/The_web_developer_bootcamp_2023_review">Udemy The web developer bootcamp 2023</a>
-<span> | 유데미의 웹 개발자 부트캠프 2023 과정에 대한 내용을 담았습니다.</span>
-</div>
-<div id="2">
-<span>· </span>
-<a href="https://github.com/Imshyeon/Three-js-Study">Three.js</a>
-<span> | Three.js에 대해서 가볍게 공부해본 내용입니다.</span>
-</div>
-<div id="3">
-<span>· </span>
-<a href="https://github.com/Imshyeon/Develop_Study">Develop_Study</a>
-<span> | 유데미 + 개인적인 개발 공부 담았습니다.</span>
-</div>
-</div>
+<details id="study-repository" style="margin-top:3rem">
+<summary style="font-size: 18px; font-weight: bold;">📖 Studying by myself</summary>
+<ul style="text-align:center; margin-top:1rem; list-style:none">
+  <li id="1"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/The_web_developer_bootcamp_2023_review">Udemy The web developer bootcamp 2023</a>
+    <span> | 유데미의 웹 개발자 부트캠프 2023 과정에 대한 내용을 담았습니다.</span>
+  </li>
+   <li id="2"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/Three-js-Study">Three.js</a>
+    <span> | Three.js에 대해서 가볍게 공부해본 내용입니다.</span>
+  </li>
+   <li id="3"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/Develop_Study">Develop_Study</a>
+    <span> | 유데미 + 개인적인 개발 공부 담았습니다.</span>
+  </li>
+</ul>
+</details>
 
-<div id="mlp-repository" style="margin-top:3rem">
-<h3 style="font-weight: bold;">🤖 Multi Campus : AI BackEnd Developer</h3>
-<div id="1">
-<span>· </span>
-<a href="https://github.com/Imshyeon/2023_AI_BACKEND_front-back-web">2023_AI_BACKEND WEB</a>
-<span> | 2023년에 참가한 AI Backend 과정 전반기(frontend, backend, web)에 대해서 다뤘습니다.</span>
-</div>
-<div id="2">
-<span>· </span>
-<a href="https://github.com/Imshyeon/2023_AI_BACKEND_Algorithm">2023_AI_BACKEND Algorithm</a>
-<span> | 2023년에 참가한 AI Backend 과정의 알고리즘 파트를 공부한 내용입니다.</span>
-</div>
-<div id="3">
-<span>· </span>
-<a href="https://github.com/Imshyeon/2023_AI_BACKEND_DesignPattern">2023_AI_BACKEND DesignPattern</a>
-<span> | 2023년에 참가한 AI Backend 과정의 DesignPattern 파트와 OOP에 대한 학습 내용입니다.</span>
-</div>
-<div id="4">
-<span>· </span>
-<a href="https://github.com/Imshyeon/2023_AI_BACKEND_AI">2023_AI_BACKEND AI</a>
-<span> | 2023년에 참가한 AI Backend 과정의 인공지능 파트에 대해서 다뤘습니다.</span>
-</div>
-</div>
+<details id="mlp-repository" style="margin-top:3rem">
+<summary style="font-size: 18px; font-weight: bold;">🤖 Multi Campus : AI BackEnd Developer</summary>
+<ul style="text-align:center; margin-top:1rem; list-style:none">
+  <li id="1"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/2023_AI_BACKEND_front-back-web">2023_AI_BACKEND WEB</a>
+    <span> | 2023년에 참가한 AI Backend 과정 전반기(frontend, backend, web)에 대해서 다뤘습니다.</span>
+  </li>
+   <li id="2"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/2023_AI_BACKEND_Algorithm">2023_AI_BACKEND Algorithm</a>
+    <span> | 2023년에 참가한 AI Backend 과정의 알고리즘 파트를 공부한 내용입니다.</span>
+  </li>
+   <li id="3"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/2023_AI_BACKEND_DesignPattern">2023_AI_BACKEND DesignPattern</a>
+    <span> | 2023년에 참가한 AI Backend 과정의 DesignPattern 파트와 OOP에 대한 학습 내용입니다.</span>
+  </li>
+   <li id="4"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/2023_AI_BACKEND_AI">2023_AI_BACKEND AI</a>
+    <span> | 2023년에 참가한 AI Backend 과정의 인공지능 파트에 대해서 다뤘습니다.</span>
+  </li>
+</ul>
+</details>
 
-<div id="school-repository" style="margin-top:3rem">
-<h3 style="font-weight: bold;">🎓 School</h3>
-<span>· </span>
-<a href="https://github.com/Imshyeon/team4_1">4학년 1학기 캡스톤디자인</a>
-<span> | OpenCV를 이용한 차선인식하는 프로그램을 만들었습니다</span>
-</div>
+<details id="school-repository" style="margin-top:3rem">
+<summary style="font-size:18px; font-weight: bold;">🎓 School</summary>
+<ul style="text-align:center; margin-top:1rem; list-style:none">
+  <li id="1"> 
+    <span>· </span>
+    <a href="https://github.com/Imshyeon/team4_1">4학년 1학기 캡스톤디자인</a>
+    <span> | OpenCV를 이용한 차선인식하는 프로그램을 만들었습니다</span>
+  </li>
+</ul>
+</details>
 
 </section>
 </div>
