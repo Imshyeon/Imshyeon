@@ -123,7 +123,11 @@
     <a href="https://github.com/Imshyeon/team4_1">4학년 1학기 캡스톤디자인</a>
     <span> | OpenCV를 이용한 차선인식하는 프로그램을 만들었습니다</span>
   </p>
-
+   <p>
+      <span>∙</span>
+      <a href="https://github.com/Pbyeolha/embedded2021">임베디드 시스템</a>
+      <span> | 임베디드 시스템의 미니 프로젝트, 최종 프로젝트 내용입니다.</span>
+   </p>
 </details>
 
 </section>
