@@ -44,10 +44,6 @@
    <a href="https://github.com/Imshyeon/Develop_Study">Develop_Study</a>
    <span> | 유데미 + 개인적인 개발 공부 부분을 담았습니다.</span>
    </div>
-   <div id="2">
-   <a href="https://github.com/Imshyeon/Holiday_Schedule">Holiday Schedule</a>
-   <span> | 여행 스케줄 제작 어플리케이션 프로젝트입니다. - version 1</span>
-   </div>
 </div>
    <br/><br/>
 <details id="project-repository">
