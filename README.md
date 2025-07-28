@@ -10,7 +10,7 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a></h1>
 <div>
-<p style="display:inline; font-weight:bold">· AGE | 24</p> 
+<p style="display:inline; font-weight:bold">· AGE | 25</p> 
 </div>
 <div><p style="display:inline; font-weight:bold">· MAJOR | Electronic Engineering</p> 
 <br>
